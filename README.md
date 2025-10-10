@@ -1,7 +1,6 @@
 # Education Project
 
-> This project //TODO.
-
+> This project compares the average ACT scores trends in schools cituated among the population that predictable different rate of unemployment, percent of population with college education, percent of married couple, median income house hold, percent of free lunch schools.
 ---
 
 ## Project Overview
