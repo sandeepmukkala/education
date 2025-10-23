@@ -87,6 +87,11 @@ Include a short discussion of the findings and what they imply.
 
 ---
 
+## Report
+- Communicate the Results report is located in reports/Education_Communicate_the_Results.pdf
+
+---
+
 ## Authors
 
 - Raja Sandeep Mukkala - [@sandeepmukkala](https://github.com/sandeepmukkala)
